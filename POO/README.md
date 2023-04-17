@@ -106,6 +106,8 @@ Em Java, existem três modificadores de acesso que podem ser usados para definir
 
 ### Herança
 Herança é um dos principais conceitos da Programação Orientada a Objetos (POO) e permite que uma classe herde características (atributos e métodos) de outra classe. Na herança, a classe que é herdada é chamada de classe pai ou superclasse, e a classe que herda é chamada de classe filha ou subclasse.
+
+
 ![heranca](../imgs/heran%C3%A7a.jpg)
 
 A subclasse é capaz de acessar os atributos e métodos da superclasse, bem como adicionar novos atributos e métodos. Além disso, a subclasse pode substituir os métodos da superclasse por métodos com o mesmo nome e mesma assinatura, porém com implementações diferentes.
