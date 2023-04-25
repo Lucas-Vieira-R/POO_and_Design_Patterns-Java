@@ -10,6 +10,8 @@ Além disso tais princípios e padrões em conjunto, fazem parte de softwares be
 
 ### Princípios SOLID
 
+![solid](../imgs/SOLID.png)
+
 - **S**ingle Responsability Principle (Princípio da Responsabilidade Única);
 - **O**pen/Closed Principle (Princípio Aberto/Fechado);
 - **L**iskov Substitution Principle (Princípio da substituição de Liskov);
