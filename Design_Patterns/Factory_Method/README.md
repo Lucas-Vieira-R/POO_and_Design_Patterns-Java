@@ -44,3 +44,7 @@ Assim com esse padrão, fica fácil de estender códigos já existentes sem a ne
 
 Além disso o encapsulamento garante que não será necessário uma preocupação das subclasses com a superclasse, que já está bem definida.
 
+
+No exemplo de código dessa pasta temos uma interface [FabricaDeCarro](./FabricaDeCarro.java) que serve de planta para duas classes: [FabricaFiat](./FabricaFiat.java) e [FabricaVW](./FabricaVW.java), que por sua vez constroem seus respectivos [Carros](./Carro.java), ou seja, um [Uno](./Uno.java) e um [Gol](./Gol.java).
+
+Também há um [Cliente](./Cliente.java) que testa a funcionalidade desse código!
