@@ -48,3 +48,6 @@ Além disso o encapsulamento garante que não será necessário uma preocupaçã
 No exemplo de código dessa pasta temos uma interface [FabricaDeCarro](./FabricaDeCarro.java) que serve de planta para duas classes: [FabricaFiat](./FabricaFiat.java) e [FabricaVW](./FabricaVW.java), que por sua vez constroem seus respectivos [Carros](./Carro.java), ou seja, um [Uno](./Uno.java) e um [Gol](./Gol.java).
 
 Também há um [Cliente](./Cliente.java) que testa a funcionalidade desse código!
+
+
+###### Caso queira ver a implementação desse padrão em outra linugagem e de maneira mais concisa e aprofundada, recomendo o site [Refactoring Guru](https://refactoring.guru/pt-br), que possui um acervo de muitos design patterns e suas implementações em diversas linguagens com vários exemplos!!!!
